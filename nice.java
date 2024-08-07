@@ -15,6 +15,9 @@ public class nice {
             case 3:
                 System.out.println("bonjour");
                 break;
+            case 4:
+                System.out.println("radhe radhe");
+                break;
             default:
                 System.out.println("invalid");
         }
